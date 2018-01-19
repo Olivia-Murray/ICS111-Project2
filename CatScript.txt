@@ -1,0 +1,19 @@
+Move -600 600 2
+Play Sad-cat.wav
+Move 100 600 1
+Play Sad-cat.wav
+Rotate 45 1
+Move 400 700 1
+Play Sad-cat.wav
+Rotate -45 1
+Move 800 800 1
+Play Sad-cat.wav
+Rotate 45 1
+Move 1200 600 1
+Play Sad-cat.wav
+Rotate -45 1
+Move 1600 700 1
+Play Sad-cat.wav
+Rotate 45 1
+Move 2400 800 1
+Play Sad-cat.wav

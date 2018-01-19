@@ -1,0 +1,12 @@
+Move 2400 1000 2
+Move 1600 700 1
+Rotate -45 1
+Move 1200 800 1
+Rotate 45 1
+Move 800 500 1
+Rotate -45 1
+Move 400 600 1
+Rotate 45 1
+Move 200 300 1
+Rotate -45 1
+Move -600 400 1
